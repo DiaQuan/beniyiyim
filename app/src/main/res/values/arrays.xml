@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="monitored_packages">
+        <item>com.instagram.android</item>
+        <item>com.whatsapp</item>
+        <item>com.google.android.apps.messaging</item>
+        <item>com.android.mms</item>
+        <item>com.trendyol</item>
+        <item>com.hepsiburada.ana</item>
+        <item>com.dsmobile.dolap</item>
+    </string-array>
+</resources>
