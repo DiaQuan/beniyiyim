@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ben İyiyim</string>
+
+    <string name="accessibility_service_description">
+        Gece modu aktifken belirli uygulamalar açıldığında kısa bir ayıklık testi göstermek için kullanılır. Yalnızca hangi uygulamanın önde olduğunu tespit eder, içeriğini okumaz.
+    </string>
+
+    <string name="test_reaction_prompt">Buton belirdiğinde hemen dokun</string>
+    <string name="test_reaction_button">ŞİMDİ</string>
+    <string name="test_math_prompt">%1$d %2$s %3$d = ?</string>
+    <string name="test_submit">Gönder</string>
+    <string name="test_recall_show_prompt">Şu kelimeleri hatırla: %1$s\n\n(Birazdan tekrar soracağız)</string>
+    <string name="test_recall_understood">Anladım</string>
+    <string name="test_recall_check_prompt">Az önce gösterdiğimiz kelimeleri hatırlıyor musun?</string>
+    <string name="test_completed_message">Teşekkürler, iyi geceler!</string>
+
+    <string name="onboarding_title">Ben İyiyim\'e Hoş Geldin</string>
+    <string name="onboarding_description">
+        Bu uygulama, alkol aldıktan sonra "ben iyiyim" dediğin anları test eder. Devam etmek için birkaç izin vermen gerekiyor — her biri ayrı ayrı açıklanacak.
+    </string>
+</resources>
